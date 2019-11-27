@@ -1,1 +1,40 @@
-<mxfile host="www.draw.io" modified="2019-11-27T12:25:56.081Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" version="12.3.2" etag="wegA6iwuQ0Si9j1koZnv" type="github"><diagram id="eYDAQElV507AolK6X8zW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-27T12:55:54.594Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="pgXdLrOaKhujuHYXRlQy" version="12.3.2" type="github" pages="1">
+  <diagram id="eYDAQElV507AolK6X8zW" name="转场">
+    <mxGraphModel dx="1024" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="_UGLCeFjIanFcX2lVDy1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="_UGLCeFjIanFcX2lVDy1-1" target="_UGLCeFjIanFcX2lVDy1-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="_UGLCeFjIanFcX2lVDy1-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="600" height="230" as="geometry"/>
+        </mxCell>
+        <mxCell id="_UGLCeFjIanFcX2lVDy1-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="600" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="_UGLCeFjIanFcX2lVDy1-3" value="视频预处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="_UGLCeFjIanFcX2lVDy1-4" value="视频编码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="130" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="_UGLCeFjIanFcX2lVDy1-7" value="记录转场时间戳" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="170" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="_UGLCeFjIanFcX2lVDy1-8" value="视频解码和播放" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="385" width="160" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="_UGLCeFjIanFcX2lVDy1-9" value="转场渲染" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="_UGLCeFjIanFcX2lVDy1-10" value="OpenGL shader渲染" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="540" y="385" width="150" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="_UGLCeFjIanFcX2lVDy1-11" value="转场参数准备&lt;br&gt;（时间戳，时长）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="350" y="385" width="160" height="70" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
