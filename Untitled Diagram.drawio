@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-19T02:10:25.931Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="9BblgV57V7pjtb5DM0Ja" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-19T08:05:49.416Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="vBB5CZLl8rGTPQ-Zsrly" version="12.5.5" type="github">
   <diagram id="Zs18WnBEk2BP07KZqg7Q" name="Page-1">
     <mxGraphModel dx="1194" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,6 +117,126 @@
         </mxCell>
         <mxCell id="kBjSdI81FxjLj7JeLLHR-4" value="接龙文案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="680" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-5" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="40" y="1310" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-6" value="用户A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1400" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBjSdI81FxjLj7JeLLHR-8" target="kBjSdI81FxjLj7JeLLHR-19">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-8" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_Rack_Empty_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="320" y="1310" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-9" value="服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1400" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-10" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kBjSdI81FxjLj7JeLLHR-5" target="kBjSdI81FxjLj7JeLLHR-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="1420" as="sourcePoint"/>
+            <mxPoint x="210" y="1370" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-11" value="发送信号信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1310" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kBjSdI81FxjLj7JeLLHR-13" target="kBjSdI81FxjLj7JeLLHR-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-13" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="640" y="1210" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBjSdI81FxjLj7JeLLHR-15" target="kBjSdI81FxjLj7JeLLHR-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-15" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="650" y="1420" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-16" value="推送信号数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="101" y="1370" width="140" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kBjSdI81FxjLj7JeLLHR-19" target="kBjSdI81FxjLj7JeLLHR-13">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.388;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="549" y="1350" as="sourcePoint"/>
+            <mxPoint x="680.04" y="1416" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-19" value="查找当前一起听歌&lt;br&gt;用户" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1310" width="140" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-20" value="用户C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1449" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-21" value="用户B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="1240" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-22" value="推送信号数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1320" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-23" value="进行互动，发送互动数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1220" width="150" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-25" value="进行互动，发送互动数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1480" width="150" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-26" value="服务器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="231" y="1550" width="390" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1660" width="390" height="340" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-28" value="网络层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1690" width="320" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-29" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1760" width="320" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-30" value="展示层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1870" width="320" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-31" value="客户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1970" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-32" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBjSdI81FxjLj7JeLLHR-27" target="kBjSdI81FxjLj7JeLLHR-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="378" y="1660" as="sourcePoint"/>
+            <mxPoint x="430" y="1610" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-33" value="发送信号数据/互动数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1700" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-34" value="接收信号推送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1700" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-35" value="听歌用户列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1770" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-36" value="互动数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1810" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-37" value="听歌入口&lt;br&gt;/头像列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1880" width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-38" value="信号面板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1880" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-39" value="歌曲信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1810" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-40" value="信号数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1770" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-43" value="弹幕控件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1920" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="kBjSdI81FxjLj7JeLLHR-44" value="信号/互动/&lt;br&gt;彩蛋特效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="1920" width="100" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
