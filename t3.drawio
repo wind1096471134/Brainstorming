@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-11T06:54:28.094Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="0sW77LAmKAGPf0UoM-g8" version="12.6.7" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-02-11T09:42:26.485Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="r6Mr_YSbNm4qnEH42d8A" version="12.6.7" type="github" pages="4">
   <diagram id="eYDAQElV507AolK6X8zW" name="转场">
     <mxGraphModel dx="1408" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -792,6 +792,39 @@
             <mxPoint x="960" y="512.74" as="sourcePoint"/>
             <mxPoint x="960.48" y="480" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9F7WaXBBNDRyAflk1iWK-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3Mdih6ezjkILujY6NE-k-1">
+          <mxGeometry x="-20" y="1100" width="300" height="320" as="geometry"/>
+        </mxCell>
+        <mxCell id="9F7WaXBBNDRyAflk1iWK-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;LimitChatPie&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3Mdih6ezjkILujY6NE-k-1">
+          <mxGeometry x="100" y="1390" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="9F7WaXBBNDRyAflk1iWK-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;定制消息类型入口：&lt;br&gt;文字/表情/语音/图片&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3Mdih6ezjkILujY6NE-k-1">
+          <mxGeometry x="30" y="1300" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="9F7WaXBBNDRyAflk1iWK-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;继承BaseChatPie：AIO基类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="3Mdih6ezjkILujY6NE-k-1">
+          <mxGeometry x="30" y="1120" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="9F7WaXBBNDRyAflk1iWK-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;消息收发框架&lt;br&gt;（含签名校验）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3Mdih6ezjkILujY6NE-k-1">
+          <mxGeometry x="30" y="1180" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="9F7WaXBBNDRyAflk1iWK-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;UI基本框架&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3Mdih6ezjkILujY6NE-k-1">
+          <mxGeometry x="30" y="1240" width="200" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="9F7WaXBBNDRyAflk1iWK-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3Mdih6ezjkILujY6NE-k-1">
+          <mxGeometry x="460" y="1100" width="300" height="320" as="geometry"/>
+        </mxCell>
+        <mxCell id="9F7WaXBBNDRyAflk1iWK-9" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;LimitChatBuilder&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3Mdih6ezjkILujY6NE-k-1">
+          <mxGeometry x="593" y="1390" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="9F7WaXBBNDRyAflk1iWK-11" value="&lt;span style=&quot;font-size: 14px&quot;&gt;mini资料卡：新消息类型和item布局&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3Mdih6ezjkILujY6NE-k-1">
+          <mxGeometry x="510" y="1140" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="9F7WaXBBNDRyAflk1iWK-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;破冰话题：新消息类型&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3Mdih6ezjkILujY6NE-k-1">
+          <mxGeometry x="510" y="1220" width="200" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="9F7WaXBBNDRyAflk1iWK-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;后续扩展能力：&lt;br&gt;互动状态等&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3Mdih6ezjkILujY6NE-k-1">
+          <mxGeometry x="510" y="1300" width="200" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
