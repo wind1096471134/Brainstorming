@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-18T15:43:45.437Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="NUDBboGYEDycFFG63_Ii" version="12.7.1" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-02-18T15:51:39.941Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="nd5zm61us91h2NMCJu70" version="12.7.1" type="github" pages="2">
   <diagram id="Zs18WnBEk2BP07KZqg7Q" name="Page-1">
     <mxGraphModel dx="1408" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -345,7 +345,7 @@
         <mxCell id="lBsXmaPBl1sx_IOPOUiy-29" value="求救暗号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsTj3gubd-OIeAn3_Nw2-1">
           <mxGeometry x="280" y="1940" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lBsXmaPBl1sx_IOPOUiy-30" value="救援者信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsTj3gubd-OIeAn3_Nw2-1">
+        <mxCell id="lBsXmaPBl1sx_IOPOUiy-30" value="求救者/救援者信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsTj3gubd-OIeAn3_Nw2-1">
           <mxGeometry x="480" y="1980" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lBsXmaPBl1sx_IOPOUiy-31" value="求救设置页面/求救页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsTj3gubd-OIeAn3_Nw2-1">
@@ -354,7 +354,7 @@
         <mxCell id="lBsXmaPBl1sx_IOPOUiy-32" value="临时会话窗口&lt;br&gt;（录音/报警按钮）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsTj3gubd-OIeAn3_Nw2-1">
           <mxGeometry x="465" y="2050" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lBsXmaPBl1sx_IOPOUiy-33" value="求救者信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsTj3gubd-OIeAn3_Nw2-1">
+        <mxCell id="lBsXmaPBl1sx_IOPOUiy-33" value="会话信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsTj3gubd-OIeAn3_Nw2-1">
           <mxGeometry x="280" y="1980" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lBsXmaPBl1sx_IOPOUiy-34" value="录音/位置信息等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="RsTj3gubd-OIeAn3_Nw2-1">
