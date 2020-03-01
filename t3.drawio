@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-29T14:08:49.819Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="8phu77chNN3GxOYRyzSD" version="12.7.9" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-03-01T14:13:34.033Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="7UkVM_iRoaSTCwZdZmqc" version="12.7.9" type="github" pages="5">
   <diagram id="eYDAQElV507AolK6X8zW" name="转场">
     <mxGraphModel dx="1408" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1612,33 +1612,33 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9LbB1gFVXABC-lx_v6mA" name="Page-5">
-    <mxGraphModel dx="1408" dy="713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="714" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ij6C38Aq1NzZanp7i7Ep-0" />
         <mxCell id="Ij6C38Aq1NzZanp7i7Ep-1" parent="Ij6C38Aq1NzZanp7i7Ep-0" />
         <mxCell id="eiS5o3VQCo6Ojn8bJM4y-0" value="&lt;span style=&quot;font-size: 16px ; white-space: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Ij6C38Aq1NzZanp7i7Ep-1">
-          <mxGeometry x="179" y="157" width="562" height="351" as="geometry" />
+          <mxGeometry x="179" y="157" width="503" height="341" as="geometry" />
         </mxCell>
         <mxCell id="-0VT0kr5bFnCMue7cPAw-0" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Soul账户体系&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Ij6C38Aq1NzZanp7i7Ep-1">
-          <mxGeometry x="197.5" y="392" width="524" height="59" as="geometry" />
+          <mxGeometry x="197.5" y="392" width="455.5" height="59" as="geometry" />
         </mxCell>
         <mxCell id="eiS5o3VQCo6Ojn8bJM4y-1" value="&lt;span style=&quot;font-size: 16px&quot;&gt;支持陌生人会话聊天&lt;br&gt;（文字/语音/表情等类型）&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="Ij6C38Aq1NzZanp7i7Ep-1">
-          <mxGeometry x="482" y="288" width="233" height="80" as="geometry" />
+          <mxGeometry x="449" y="290" width="202" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eiS5o3VQCo6Ojn8bJM4y-2" value="&lt;span style=&quot;font-size: 16px&quot;&gt;广场&lt;br&gt;（发布瞬间动态）&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="Ij6C38Aq1NzZanp7i7Ep-1">
-          <mxGeometry x="203" y="186" width="254" height="80" as="geometry" />
+          <mxGeometry x="203" y="186" width="219" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eiS5o3VQCo6Ojn8bJM4y-3" value="&lt;span style=&quot;font-size: 16px&quot;&gt;陌生人关注/加好友&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="Ij6C38Aq1NzZanp7i7Ep-1">
-          <mxGeometry x="482" y="186" width="226" height="80" as="geometry" />
+          <mxGeometry x="449" y="186" width="201" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eiS5o3VQCo6Ojn8bJM4y-4" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Soul整体框架&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ij6C38Aq1NzZanp7i7Ep-1">
-          <mxGeometry x="383" y="537" width="166" height="20" as="geometry" />
+          <mxGeometry x="347.75" y="522" width="166" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eiS5o3VQCo6Ojn8bJM4y-5" value="&lt;span style=&quot;font-size: 16px&quot;&gt;陌生人资料卡，好友资料卡等&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="Ij6C38Aq1NzZanp7i7Ep-1">
-          <mxGeometry x="200" y="290" width="258" height="80" as="geometry" />
+        <mxCell id="eiS5o3VQCo6Ojn8bJM4y-5" value="&lt;span style=&quot;font-size: 16px&quot;&gt;星球匹配&lt;br&gt;（话题，标签）&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="Ij6C38Aq1NzZanp7i7Ep-1">
+          <mxGeometry x="200" y="290" width="223" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eiS5o3VQCo6Ojn8bJM4y-7" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Soul匹配后台&lt;br&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51)&quot;&gt;根据星球话题，性别年龄等进行匹配&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Ij6C38Aq1NzZanp7i7Ep-1">
-          <mxGeometry x="186.5" y="15" width="547" height="91" as="geometry" />
+          <mxGeometry x="186.5" y="15" width="488.5" height="91" as="geometry" />
         </mxCell>
         <mxCell id="eiS5o3VQCo6Ojn8bJM4y-9" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Ij6C38Aq1NzZanp7i7Ep-1" source="eiS5o3VQCo6Ojn8bJM4y-0" target="eiS5o3VQCo6Ojn8bJM4y-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1647,7 +1647,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eiS5o3VQCo6Ojn8bJM4y-10" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;客户端&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ij6C38Aq1NzZanp7i7Ep-1">
-          <mxGeometry x="379" y="475" width="166" height="20" as="geometry" />
+          <mxGeometry x="347.5" y="467" width="166" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
