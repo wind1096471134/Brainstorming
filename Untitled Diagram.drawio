@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-23T02:25:02.416Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="_myAP3HluUiQhdIOcaR9" version="12.8.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-06-07T07:30:16.344Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Safari/537.36" etag="tCvhr9mJedZ70pKYYqza" version="12.8.8" type="github" pages="5">
   <diagram id="Zs18WnBEk2BP07KZqg7Q" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -893,6 +893,134 @@
         </mxCell>
         <mxCell id="m7baRkAmmnRNq1GFno_l-38" value="群聊天信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="Fe6Ae7IQ1AJrIwiWfUdc-1" vertex="1">
           <mxGeometry x="291" y="1979" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JfPS_weHdwA4_M1wgz1W" name="Page-5">
+    <mxGraphModel dx="1209" dy="-573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="1_Lw9R4GvNl1KjEcXI8n-0" />
+        <mxCell id="1_Lw9R4GvNl1KjEcXI8n-1" parent="1_Lw9R4GvNl1KjEcXI8n-0" />
+        <mxCell id="piAniY7ACUR_v6_2DSGH-0" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="40" y="1310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-1" value="用户A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="60" y="1400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1_Lw9R4GvNl1KjEcXI8n-1" source="piAniY7ACUR_v6_2DSGH-3" target="piAniY7ACUR_v6_2DSGH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-3" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_Rack_Empty_128x128.png" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="320" y="1310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-4" value="服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="340" y="1400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-5" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1_Lw9R4GvNl1KjEcXI8n-1" source="piAniY7ACUR_v6_2DSGH-0" target="piAniY7ACUR_v6_2DSGH-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="1420" as="sourcePoint" />
+            <mxPoint x="210" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-6" value="创建高颜值视频聊天，&lt;br&gt;设置加入条件&lt;br&gt;（性别，颜值分数）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="170" y="1310" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1_Lw9R4GvNl1KjEcXI8n-1" source="piAniY7ACUR_v6_2DSGH-8" target="piAniY7ACUR_v6_2DSGH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-8" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="640" y="1210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1_Lw9R4GvNl1KjEcXI8n-1" source="piAniY7ACUR_v6_2DSGH-10" target="piAniY7ACUR_v6_2DSGH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-10" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="650" y="1420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1_Lw9R4GvNl1KjEcXI8n-1" source="piAniY7ACUR_v6_2DSGH-14" target="piAniY7ACUR_v6_2DSGH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.388;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="549" y="1350" as="sourcePoint" />
+            <mxPoint x="680.04" y="1416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-14" value="AI人脸检测模块&lt;br&gt;（性别，颜值分数）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="450" y="1310" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-15" value="用户C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="725" y="1449" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-16" value="用户B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="725" y="1240" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-17" value="推送检测结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="585" y="1320" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-18" value="申请加入视频聊天&lt;br&gt;（人脸特征点数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="440" y="1215" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="piAniY7ACUR_v6_2DSGH-19" value="申请加入视频聊天&lt;br&gt;（人脸特征点数据）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="440" y="1475" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-0" value="服务器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="230" y="1680" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="230" y="1800" width="390" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-2" value="网络层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="265" y="1820" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-3" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="265" y="1930" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-4" value="展示层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="265" y="2040" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-5" value="客户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="405" y="2140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-6" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1_Lw9R4GvNl1KjEcXI8n-1" source="55Mt8Is8nThovg15iBHF-1" target="55Mt8Is8nThovg15iBHF-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="378" y="1830" as="sourcePoint" />
+            <mxPoint x="430" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-7" value="创建高颜值视频聊天请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="290" y="1832" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-8" value="设置入群条件请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="480" y="1834" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-9" value="群成员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="291" y="1941" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-10" value="条件设置页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="280" y="2050" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-11" value="摄像头预览页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="465" y="2050" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-12" value="人脸特征点数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="465" y="1941" width="110" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-13" value="群聊天窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="470" y="2090" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-14" value="视频聊天页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="281" y="2090" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-15" value="接收服务器推送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="480" y="1872" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-16" value="视频聊天信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="291" y="1979" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55Mt8Is8nThovg15iBHF-17" value="人脸检测请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1_Lw9R4GvNl1KjEcXI8n-1">
+          <mxGeometry x="291" y="1872" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
