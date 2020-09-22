@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-09-22T14:05:25.737Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4209.2 Safari/537.36" etag="XE1O_A645uAB9hZ41BsI" version="13.3.9" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2020-09-22T14:21:36.502Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4209.2 Safari/537.36" etag="m3ycGyP09Fr4UsRBHvk4" version="13.3.9" type="github" pages="8">
   <diagram id="Zs18WnBEk2BP07KZqg7Q" name="Page-1">
     <mxGraphModel dx="1408" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1587,7 +1587,7 @@
         <mxCell id="RZYd7zBcRa2BsAz7L9Kg-10" value="收折设置界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F52Y1hImu7BznxMXEUbx-1">
           <mxGeometry x="280" y="2050" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RZYd7zBcRa2BsAz7L9Kg-11" value="消息列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F52Y1hImu7BznxMXEUbx-1">
+        <mxCell id="RZYd7zBcRa2BsAz7L9Kg-11" value="消息列表/&lt;br&gt;小灰条提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F52Y1hImu7BznxMXEUbx-1">
           <mxGeometry x="465" y="2050" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RZYd7zBcRa2BsAz7L9Kg-12" value="收折数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F52Y1hImu7BznxMXEUbx-1">
@@ -1596,7 +1596,7 @@
         <mxCell id="RZYd7zBcRa2BsAz7L9Kg-13" value="群聊天窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F52Y1hImu7BznxMXEUbx-1">
           <mxGeometry x="470" y="2090" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RZYd7zBcRa2BsAz7L9Kg-14" value="小灰条提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F52Y1hImu7BznxMXEUbx-1">
+        <mxCell id="RZYd7zBcRa2BsAz7L9Kg-14" value="消息收折控件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F52Y1hImu7BznxMXEUbx-1">
           <mxGeometry x="281" y="2090" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RZYd7zBcRa2BsAz7L9Kg-15" value="接收服务器推送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F52Y1hImu7BznxMXEUbx-1">
